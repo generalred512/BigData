@@ -1,6 +1,8 @@
 # **Battle of The Consoles**
 ## **Introduction**
-We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, would like to present to you which console is the most popular, and therefore more profitable. Here on this website you will find various datasets we've collected for your convenience. These large data sets will serve as proof as to which console is the most popular.
+We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this website to ilustrate our skills in Github and Markdown. This particular website is designed to encourage Gamestop to advertise PS4s more as they are more popular and would gather more sales.
+
+would like to present to you which console is the most popular, and therefore more profitable. Here on this website you will find various datasets we've collected for your convenience. These large data sets will serve as proof as to which console is the most popular.
 
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
