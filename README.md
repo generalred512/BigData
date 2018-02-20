@@ -1,8 +1,7 @@
 # **Battle of The Consoles**
 ## **Introduction**
-1. Provide an introduction section that contains the following information:
-  - Names of group members
-  - Assignment description (i.e. What did this project ask you to do?)
+We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, would like to present to you which console is the most popular, and therefore more profitable. Here on this website you will find various datasets we've collected for your convenience. These large data sets will serve as proof as to which console is the most popular.
+
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
 4.	Identify each permanent data set you used. For each set, you must: 
