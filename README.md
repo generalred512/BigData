@@ -1,11 +1,4 @@
 # **Battle of The Consoles**
-## Explanation of Collaborative Report
-As a group, respond directly to each of the following prompts. This report 
-will provide the details of your investigation and should include non-textual 
-representations that communicate the results of your investigation. These 
-representations could include charts, tables, graphs, visualizations, or other 
-appropriate resources that augment or clarify your questions, analysis, and 
-answers. 
 
 1. Provide an introduction section that contains the following information:
   - Names of group members
