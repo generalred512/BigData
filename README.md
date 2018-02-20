@@ -5,7 +5,6 @@ We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this websit
 ## **Area of Focus**
 We decided to explore the game industry, as each of us has experience in the subject. Specifically, we chose the difference between the three biggest consoles currently, Xbox One, PS4, and Switch, since we have played on, and are knowledgeable with, each of the consoles. 
 
-2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
 4.	Identify each permanent data set you used. For each set, you must: 
   - Provide the permanent URL.
