@@ -1,8 +1,8 @@
 # **Battle of The Consoles**
 ## **Introduction**
-We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this website to ilustrate our skills in Github and Markdown. This particular website is designed to encourage Gamestop to advertise PS4s more as they are more popular and would gather more sales.
+We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this website to ilustrate our skills in Github and Markdown. This particular website is designed to encourage Gamestop to advertise PS4s more as they are more popular and would gather more sales. Here on this website you will find various large data sets to support our conclusion, and show we understand Big Data Analytics.
 
-would like to present to you which console is the most popular, and therefore more profitable. Here on this website you will find various datasets we've collected for your convenience. These large data sets will serve as proof as to which console is the most popular.
+We decided to explore the game industry, as each of us has experience in the subject. Specifically, we chose the difference between the three biggest consoles currently, Xbox One, PS4, and Switch, since we have played on, and are knowledgeable with, each of the consoles. 
 
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
