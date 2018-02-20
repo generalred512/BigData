@@ -1,5 +1,5 @@
 # **Battle of The Consoles**
-
+## **Introduction**
 1. Provide an introduction section that contains the following information:
   - Names of group members
   - Assignment description (i.e. What did this project ask you to do?)
