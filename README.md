@@ -5,12 +5,19 @@ We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this websit
 ## **Area of Focus**
 We decided to explore the game industry, as each of us has experience in the subject. Specifically, we chose the difference between the three biggest consoles currently, Xbox One, PS4, and Switch, since we have played on, and are knowledgeable with, each of the consoles. 
 
+## **Our Questions**
 3.	List the set of three to five questions you sought to answer. 
+
+## **Data**
 4.	Identify each permanent data set you used. For each set, you must: 
   - Provide the permanent URL.
   - Briefly describe the data set. **Each description should be no more than 100 words.**
   - Provide the date on which you accessed each data set. 
+  
+## **Answers**
 5.	Clearly present the answer to each of the questions you investigated. Each answer should be **no more than 200 words.** Attach and reference any appropriate non-textual representations. Include a one sentence description of each non-textual attachment. 
+
+## **How do the questions relate to this?**
 6.	Explain how your questions and answers contribute to the development of insight and knowledge in your chosen area of inquiry. Your explanation should be **no more than 300 words.** Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
 
 ## Explanation of Individual Report
