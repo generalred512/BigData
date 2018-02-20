@@ -9,7 +9,6 @@ answers.
 
 1. Provide an introduction section that contains the following information:
   - Names of group members
-  - Links to other group members collaborative report pages
   - Assignment description (i.e. What did this project ask you to do?)
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
