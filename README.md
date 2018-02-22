@@ -11,7 +11,9 @@ We decided to explore the game industry, as each of us has experience in the sub
 ## **Data**
 4.	Identify each permanent data set you used. For each set, you must: 
   - Provide the permanent URL.
+```
   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1308_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"xbox one","geo":"US","time":"today 12-m"},{"keyword":"ps4","geo":"US","time":"today 12-m"},{"keyword":"/m/0130pygf","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=xbox%20one,ps4,%2Fm%2F0130pygf&date=today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+```
   - Briefly describe the data set. In this data set, the information given is the shows us the amount of times a certain console was searched in the past year by americans. This graph shows us which console is searched the most (ps4) and from that we can assume that, that console is the most popular in this country
   - Provide the date on which you accessed each data set. 
   
