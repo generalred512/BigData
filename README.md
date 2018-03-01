@@ -19,7 +19,7 @@ In this data set, the information given is the shows us the amount of times a ce
 5.	Clearly present the answer to each of the questions you investigated. Each answer should be **no more than 200 words.** Attach and reference any appropriate non-textual representations. Include a one sentence description of each non-textual attachment. 
 
 ## **How do the questions relate to this?**
-6.	Explain how your questions and answers contribute to the development of insight and knowledge in your chosen area of inquiry. Your explanation should be: **Our questions relate to our main to to advertise ps4’s more, because from our research, the ps4 is the most searched (popular) console out of the nintendo switch and xbox 1. Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
+Our questions relate to our main to to advertise ps4’s more, because from our research, the ps4 is the most searched (popular) console out of the nintendo switch and xbox 1. Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
 
 ## Explanation of Individual Report
 On your own, respond directly to each of the following prompts: 
