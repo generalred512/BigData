@@ -6,7 +6,9 @@ We, Adhan Razzaque, Kahmrin Traylor, and Brandon McGee, have created this websit
 We decided to explore the game industry, as each of us has experience in the subject. Specifically, we chose the difference between the three biggest consoles currently, Xbox One, PS4, and Switch, since we have played on, and are knowledgeable with, each of the consoles. 
 
 ## **Our Questions**
-3.	List the set of three to five questions you sought to answer. 
+1. What console is consistently the most popular?
+2. Do consoles peak during anytime in the year?
+3. Why do consoles peak in popularity during certain times of year?
 
 ## **Data**
 ```html
