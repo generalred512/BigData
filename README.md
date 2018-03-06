@@ -21,3 +21,6 @@ In this data set, the information given is the shows us the amount of times a ce
 
 ## **How do the questions relate to this?**
 Our questions relate to our main to to advertise ps4’s more, because from our research, the ps4 is the most searched (popular) console out of the nintendo switch and xbox 1. Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
+
+## **Conclusion**
+With all this research done, we have created a conclusion, and thus a proposal for Gamestop. We believe Gamestop should raise the price of PS4s in order to make a larger profit off of the large demand of PS4s. Alternatively, Gamestop can push for advertisements of their Switches and Xbox Ones, or reduce the price of the consoles in order to spur demand.
