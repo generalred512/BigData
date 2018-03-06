@@ -11,9 +11,9 @@ We decided to explore the game industry, as each of us has experience in the sub
 3. Why do consoles peak in popularity during certain times of year?
 
 ## **Data**
-[Data Set of Ps4 vs Xbox One vs Switch](https://trends.google.com/trends/explore?q=ps4,%2Fm%2F0vphbfj,Switch)
-
 ![alt text](https://github.com/generalred512/BigData/blob/master/Charts/Screen%20Shot%202018-03-06%20at%201.32.22%20PM.png "Comparison Chart")
+
+[Data Set of Ps4 vs Xbox One vs Switch](https://trends.google.com/trends/explore?q=ps4,%2Fm%2F0vphbfj,Switch)
 
 In this data set, the information given is the shows us the amount of times a certain console was searched in the past year by americans. This graph shows us which console is searched the most (ps4) and from that we can assume that, that console is the most popular in this country. This data was collected on 2/20/18
 ## **Answers**
