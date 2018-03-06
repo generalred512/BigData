@@ -17,7 +17,9 @@ We decided to explore the game industry, as each of us has experience in the sub
 
 In this data set, the information given is the shows us the amount of times a certain console was searched in the past year by americans. This graph shows us which console is searched the most (ps4) and from that we can assume that, that console is the most popular in this country. This data was collected on 2/20/18
 ## **Answers**
-5.	Clearly present the answer to each of the questions you investigated. Each answer should be **no more than 200 words.** Attach and reference any appropriate non-textual representations. Include a one sentence description of each non-textual attachment. 
+1. The most consistently popular console is the PS4, as evidenced by our data collection.
+2. The consoles tend to peak around Black Friday and winter time. 
+3. The console peak during black friday and winter time because they are usally on sale .
 
 ## **How do the questions relate to this?**
 Our questions relate to our main to to advertise ps4’s more, because from our research, the ps4 is the most searched (popular) console out of the nintendo switch and xbox 1. Attach (as pdfs) and reference any appropriate non-textual representations. Include a one-sentence description of each non-textual attachment.
