@@ -11,7 +11,7 @@ We decided to explore the game industry, as each of us has experience in the sub
 3. Why do consoles peak in popularity during certain times of year?
 
 ## **Data**
-(https://trends.google.com/trends/explore?q=ps4,%2Fm%2F0vphbfj,Switch)[Data Set of Ps4 vs Xbox One vs Switch]
+[Data Set of Ps4 vs Xbox One vs Switch](https://trends.google.com/trends/explore?q=ps4,%2Fm%2F0vphbfj,Switch)
 In this data set, the information given is the shows us the amount of times a certain console was searched in the past year by americans. This graph shows us which console is searched the most (ps4) and from that we can assume that, that console is the most popular in this country. This data was collected on 2/20/18
 ## **Answers**
 5.	Clearly present the answer to each of the questions you investigated. Each answer should be **no more than 200 words.** Attach and reference any appropriate non-textual representations. Include a one sentence description of each non-textual attachment. 
